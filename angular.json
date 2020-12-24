@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "Task-Manager"
+  "defaultProject": "Task-Manager",
+  "cli": {
+    "analytics": false
+  }
 }
